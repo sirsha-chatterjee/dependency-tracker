@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dependency-tracker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dependency-tracker/static/js/main.9a35cbfa.chunk.js",
+    "main.js.map": "/dependency-tracker/static/js/main.9a35cbfa.chunk.js.map",
+    "runtime-main.js": "/dependency-tracker/static/js/runtime-main.97b94954.js",
+    "runtime-main.js.map": "/dependency-tracker/static/js/runtime-main.97b94954.js.map",
+    "static/js/2.5026ad79.chunk.js": "/dependency-tracker/static/js/2.5026ad79.chunk.js",
+    "static/js/2.5026ad79.chunk.js.map": "/dependency-tracker/static/js/2.5026ad79.chunk.js.map",
+    "index.html": "/dependency-tracker/index.html",
+    "precache-manifest.81d198587fcf4cc302f20dfbf4219f9f.js": "/dependency-tracker/precache-manifest.81d198587fcf4cc302f20dfbf4219f9f.js",
+    "service-worker.js": "/dependency-tracker/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dependency-tracker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5026ad79.chunk.js.LICENSE.txt": "/dependency-tracker/static/js/2.5026ad79.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dependency-tracker/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97b94954.js",
+    "static/js/2.5026ad79.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9a35cbfa.chunk.js"
+  ]
+}
